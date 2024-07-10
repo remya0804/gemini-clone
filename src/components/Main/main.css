@@ -148,6 +148,7 @@
 
 .search input{
 
+
     padding: 8px;
 
     flex: 1;
@@ -277,7 +278,7 @@
 
     .main-bottom input{
 
-        width: 150px;
+        width: 250px;
         flex: none;
     }
 
@@ -296,8 +297,5 @@
         font-size: 20px;
     }
 
-    .search input{
-
-        font-size: 12px;
-    }
+    
 }
