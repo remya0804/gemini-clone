@@ -1,11 +1,11 @@
 {
-  "homepage" : "https://remya0804.github.io/gemini-clone",
+  "homepage": "https://remya0804.github.io/gemini-clone",
   "name": "gemini-clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",  
+    "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "vite build",
